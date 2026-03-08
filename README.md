@@ -31,7 +31,7 @@
 
 | Category | Project / Experience | Description | Key Tech |
 | :--- | :--- | :--- | :--- |
-| **Fullstack** | **Villain Company** | **1인 주도로 프론트/백엔드 아키텍처 설계 및 멀티 클라우드 배포** | `React`, `Spring Boot`, `AWS`, `Vercel` |
+| **Fullstack** | **Villain Company** | 1인 주도로 프론트/백엔드 아키텍처 설계 및 멀티 클라우드 배포 | `React`, `Spring Boot`, `AWS`, `Vercel` |
 | **Android** | **MyLeisure Platform** | 심리 기반 레저 스포츠 추천 서비스 (캡스톤 디자인) | `Android`, `Firebase`, `Java` |
 | **Backend** | **Personal Tech Blog** | 시큐리티 및 페이징 처리를 구현한 백엔드 시스템 | `Spring Boot`, `JPA`, `MySQL` |
 | **Data** | **Weather Analysis** | 공공데이터 활용 기상 데이터 정제 및 시각화 프로젝트 | `Python`, `Pandas` |
