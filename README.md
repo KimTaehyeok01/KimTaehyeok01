@@ -12,7 +12,10 @@
 ### 🛠 Tech Stack Overview
 
 **Core & Backend**
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+
+**Database Systems**
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
 
 **Frontend & Mobile**
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
@@ -28,9 +31,9 @@
 
 | Category | Project / Experience | Description | Key Tech |
 | :--- | :--- | :--- | :--- |
-| **Backend** | **Villain Company** | 1인 주도로 전체 서비스 아키텍처 설계 및 서버 구축 | `React`, `JavaScript`, `AWS`, `Vercel` |
-| **Android** | **MyLeisure Platform** | 심리 기반 레저 스포츠 추천 서비스 (캡스톤 디자인) | `Android`, `Firebase` |
-| **Web** | **React Frontend** | 컴포넌트 기반 웹 개발 및 호스팅 자동화 구현 | `React`, `Vercel` |
+| **Fullstack** | **Villain Company** | **1인 주도로 프론트/백엔드 아키텍처 설계 및 멀티 클라우드 배포** | `React`, `Spring Boot`, `AWS`, `Vercel` |
+| **Android** | **MyLeisure Platform** | 심리 기반 레저 스포츠 추천 서비스 (캡스톤 디자인) | `Android`, `Firebase`, `Java` |
+| **Backend** | **Personal Tech Blog** | 시큐리티 및 페이징 처리를 구현한 백엔드 시스템 | `Spring Boot`, `JPA`, `MySQL` |
 | **Data** | **Weather Analysis** | 공공데이터 활용 기상 데이터 정제 및 시각화 프로젝트 | `Python`, `Pandas` |
 | **Docs** | **Dev Archive** | 노션을 활용한 기술 정리 및 트러블슈팅 아카이브 | `Notion`, `Markdown` |
 
@@ -41,8 +44,8 @@
 ### 📈 Activity Status
 | 📅 Period | 🔥 Cumulative Activity | 🏆 Core Value |
 | :--- | :--- | :--- |
-| **Last 1 Year** | **999+ Contributions** | **Daily Growth & Persistent Coding** |
-| **Philosophy** | **Clean Code & Robust Architecture** | **Cloud-Based End-to-End Dev** |
+| **Last 1 Year** | **999+ Contributions** | **Daily Growth & Consistent Coding** |
+| **Philosophy** | **Clean Code & Robust Architecture** | **End-to-End Development Capability** |
 
 <br>
 
