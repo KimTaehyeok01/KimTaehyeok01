@@ -4,8 +4,8 @@
 
 <div align="center">
 
-# 🚀 끊임없이 기록하며 성장하는 풀스택 개발자
-> **Java 기반의 견고한 백엔드와 Android의 직관적인 사용자 경험을 융합합니다.**
+# 🚀 기록하며 성장하는 풀스택 개발자
+> **견고한 백엔드 로직과 직관적인 사용자 경험을 연결하는 가교 역할을 지향합니다.**
 
 <br>
 
@@ -16,36 +16,37 @@
 **Framework & DB**
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
 
-**Environment**
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+**Collaboration & Productivity**
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 
 <br>
 
 ---
 
-### 📂 Major Projects & Experience
+### 📂 Representative Experience
 
-| Category | Project Name | Description | Key Tech |
-| :--- | :--- | :--- | :--- |
-| **Mobile** | **MyLeisure Platform** | 심리 기반 맞춤형 레저 스포츠 추천 서비스 | `Android`, `Firebase`, `Java` |
-| **Backend** | **Personal Tech Blog** | 시큐리티와 페이징 처리를 구현한 블로그 | `Spring Boot`, `JPA`, `MySQL` |
-| **Data** | **Weather Analysis** | 공공데이터 기반 기상 변화 분석 및 시각화 | `Python`, `Pandas`, `Matplotlib` |
-
-<br>
-
----
-
-### 📈 Contribution Analysis
-| 📅 Period | 🔥 Activity Status | 🏆 Achievement |
+| Category | Project / Experience | Description |
 | :--- | :--- | :--- |
-| **Last 1 Year** | **999+ Contributions** | **Keep Growing Every Day** |
-| **Top Skills** | **Java, Android, SQL** | **Full-stack Readiness** |
+| **Android** | **MyLeisure Platform** | 심리 기반 레저 스포츠 추천 서비스 (캡스톤 디자인) |
+| **Backend** | **Personal Tech Blog** | 시큐리티 및 페이징 처리를 구현한 백엔드 시스템 |
+| **Data** | **Weather Analysis** | 공공데이터 활용 기상 데이터 정제 및 시각화 프로젝트 |
+| **Docs** | **Dev Archive** | 노션을 활용한 기술 스택 정리 및 프로젝트 트러블슈팅 기록 |
+
+<br>
+
+---
+
+### 📈 Activity Status
+| 📅 Period | 🔥 Cumulative Activity | 🏆 Core Value |
+| :--- | :--- | :--- |
+| **Last 1 Year** | **999+ Contributions** | **Daily Growth & Consistent Coding** |
+| **Philosophy** | **Clean Code & UX** | **User-Centered Engineering** |
 
 <br>
 
 ---
 
 ### 📫 Contact & Channels
-<a href="mailto:taehyeok@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp;&nbsp;<a href="https://github.com/KimTaehyeok01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+<a href="mailto:taehyeok@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp;&nbsp;<a href="https://github.com/KimTaehyeok01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>&nbsp;&nbsp;<a href="태혁님의노션링크"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 
 </div>
