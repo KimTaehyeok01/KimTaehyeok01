@@ -27,7 +27,7 @@
 
 | Category | Project / Experience | Description | Key Tech |
 | :--- | :--- | :--- | :--- |
-| **Backend** | **Villain Company** | **1인 주도로 전체 서비스 아키텍처 설계 및 핵심 로직 구현** | `Java`, `Spring Boot`, `MySQL` |
+| **Backend** | **Villain Company** | 1인 주도로 전체 서비스 아키텍처 설계 및 핵심 로직 구현 | `Java`, `Spring Boot`, `MySQL` |
 | **Android** | **MyLeisure Platform** | 심리 기반 레저 스포츠 추천 서비스 (캡스톤 디자인) | `Android`, `Firebase`, `Java` |
 | **Web** | **React Practice** | 리액트를 활용한 컴포넌트 기반 웹 프론트엔드 구현 | `React`, `JavaScript` |
 | **Data** | **Weather Analysis** | 공공데이터 활용 기상 데이터 정제 및 시각화 프로젝트 | `Python`, `Pandas` |
