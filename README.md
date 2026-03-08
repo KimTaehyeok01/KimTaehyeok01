@@ -25,12 +25,13 @@
 
 ### 📂 Representative Experience
 
-| Category | Project / Experience | Description |
-| :--- | :--- | :--- |
-| **Android** | **MyLeisure Platform** | 심리 기반 레저 스포츠 추천 서비스 (캡스톤 디자인) |
-| **Backend** | **Personal Tech Blog** | 시큐리티 및 페이징 처리를 구현한 백엔드 시스템 |
-| **Data** | **Weather Analysis** | 공공데이터 활용 기상 데이터 정제 및 시각화 프로젝트 |
-| **Docs** | **Dev Archive** | 노션을 활용한 기술 스택 정리 및 프로젝트 트러블슈팅 기록 |
+| Category | Project / Experience | Description | Key Tech |
+| :--- | :--- | :--- | :--- |
+| **Fullstack** | **Villain Company** | 팀 프로젝트 중심의 서비스 아키텍처 설계 및 구현 | `Java`, `Spring Boot`, `Git` |
+| **Android** | **MyLeisure Platform** | 심리 기반 레저 스포츠 추천 서비스 (캡스톤 디자인) | `Android`, `Firebase`, `Java` |
+| **Backend** | **Personal Tech Blog** | 시큐리티 및 페이징 처리를 구현한 백엔드 시스템 | `Spring Boot`, `JPA`, `MySQL` |
+| **Data** | **Weather Analysis** | 공공데이터 활용 기상 데이터 분석 및 시각화 | `Python`, `Pandas`, `Matplotlib` |
+| **Docs** | **Dev Archive** | 노션을 활용한 기술 정리 및 트러블슈팅 아카이브 | `Notion`, `Markdown` |
 
 <br>
 
@@ -38,7 +39,7 @@
 
 ### 📈 Activity Status
 | 📅 Period | 🔥 Cumulative Activity | 🏆 Core Value |
-| :--- | :--- | :--- |
+| :--- | : :--- | :--- |
 | **Last 1 Year** | **999+ Contributions** | **Daily Growth & Consistent Coding** |
 | **Philosophy** | **Clean Code & UX** | **User-Centered Engineering** |
 
