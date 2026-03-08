@@ -4,17 +4,17 @@
 
 <div align="center">
 
-# 🚀 기록하며 성장하는 풀스택 개발자
-> **견고한 백엔드 로직과 직관적인 사용자 경험을 연결하는 가교 역할을 지향합니다.**
+# 🚀 끊임없이 기록하며 성장하는 풀스택 개발자
+> **Java 기반의 견고한 백엔드와 React/Android의 직관적인 UX를 연결합니다.**
 
 <br>
 
 ### 🛠 Tech Stack Overview
-**Core & Language**
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+**Core & Backend**
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 
-**Framework & DB**
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+**Frontend & Mobile**
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 
 **Collaboration & Productivity**
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
@@ -27,10 +27,10 @@
 
 | Category | Project / Experience | Description | Key Tech |
 | :--- | :--- | :--- | :--- |
-| **Fullstack** | **Villain Company** | 팀 프로젝트 중심의 서비스 아키텍처 설계 및 구현 | `Java`, `Spring Boot`, `Git` |
+| **Backend** | **Villain Company** | **1인 주도로 전체 서비스 아키텍처 설계 및 핵심 로직 구현** | `Java`, `Spring Boot`, `MySQL` |
 | **Android** | **MyLeisure Platform** | 심리 기반 레저 스포츠 추천 서비스 (캡스톤 디자인) | `Android`, `Firebase`, `Java` |
-| **Backend** | **Personal Tech Blog** | 시큐리티 및 페이징 처리를 구현한 백엔드 시스템 | `Spring Boot`, `JPA`, `MySQL` |
-| **Data** | **Weather Analysis** | 공공데이터 활용 기상 데이터 분석 및 시각화 | `Python`, `Pandas`, `Matplotlib` |
+| **Web** | **React Practice** | 리액트를 활용한 컴포넌트 기반 웹 프론트엔드 구현 | `React`, `JavaScript` |
+| **Data** | **Weather Analysis** | 공공데이터 활용 기상 데이터 정제 및 시각화 프로젝트 | `Python`, `Pandas` |
 | **Docs** | **Dev Archive** | 노션을 활용한 기술 정리 및 트러블슈팅 아카이브 | `Notion`, `Markdown` |
 
 <br>
@@ -39,9 +39,9 @@
 
 ### 📈 Activity Status
 | 📅 Period | 🔥 Cumulative Activity | 🏆 Core Value |
-| :--- | : :--- | :--- |
-| **Last 1 Year** | **999+ Contributions** | **Daily Growth & Consistent Coding** |
-| **Philosophy** | **Clean Code & UX** | **User-Centered Engineering** |
+| :--- | :--- | :--- |
+| **Last 1 Year** | **999+ Contributions** | **Daily Growth & Persistent Coding** |
+| **Philosophy** | **Clean Code & Robust Architecture** | **End-to-End Development Capability** |
 
 <br>
 
