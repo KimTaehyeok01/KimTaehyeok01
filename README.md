@@ -7,7 +7,7 @@
 # 🚀 끊임없이 기록하며 성장하는 풀스택 개발자
 > **Java 기반의 견고한 백엔드와 React/Android의 직관적인 UX를 연결합니다.**
 
-<br>
+
 
 ### 🛠 Tech Stack Overview
 
