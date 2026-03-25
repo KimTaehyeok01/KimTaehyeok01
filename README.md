@@ -36,7 +36,7 @@
 | Category | Project | Description | Key Tech |
 | :---: | :--- | :--- | :--- |
 | 🗺️ **Backend** | **[LocalMeet](https://github.com/KimTaehyeok01/localmeet)** | 동네 기반 모임 커뮤니티 플랫폼<br>JWT 인증, 실시간 채팅, 소셜 로그인, 카카오맵 연동 | `Spring Boot` `Spring Security` `JWT` `WebSocket` `OAuth2` `JPA` `MySQL` |
-| 📱 **Android** | **MyLeisure Platform** | 심리 기반 레저 스포츠 추천 서비스 (캡스톤 디자인)<br>팀장으로 3인 팀 리드, 위치/날씨 API 연동 | `Android` `Java` `Firebase` `REST API` |
+| 📱 **Android** | **[MyLeisure Platform](https://github.com/KimTaehyeok01/CapstoneDesign)** | 심리 기반 레저 스포츠 추천 서비스 (캡스톤 디자인)<br>팀장으로 3인 팀 리드, 위치/날씨 API 연동 | `Android` `Java` `Firebase` `REST API` |
 | 🌐 **Fullstack** | **Villain Company** | 1인 주도 프론트/백엔드 설계 및 멀티 클라우드 배포 | `React` `Spring Boot` `AWS` `Vercel` |
 | 📊 **Data** | **Weather Analysis** | 공공데이터 활용 기상 데이터 정제 및 시각화 | `Python` `Pandas` |
 | 📝 **Docs** | **Dev Archive** | 노션을 활용한 기술 정리 및 트러블슈팅 아카이브 | `Notion` `Markdown` |
