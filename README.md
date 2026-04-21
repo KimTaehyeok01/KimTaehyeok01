@@ -43,7 +43,7 @@
 | | Project | Description | Tech |
 | :---: | :--- | :--- | :--- |
 | 🗺️ | **[LocalMeet](https://github.com/KimTaehyeok01/localmeet)** | 동네 기반 모임 커뮤니티 플랫폼<br>JWT 인증 · 실시간 채팅 · 소셜 로그인 · 카카오맵 연동 | `Spring Boot` `Spring Security` `JWT` `WebSocket` `OAuth2` `JPA` `MySQL` |
-| 🎨 | **[ArtDay](https://github.com/KimTaehyeok01/ArtDay)** | 아트 기반 일정 관리 및 작품 공유 플랫폼<br>사용자 맞춤 아트 콘텐츠 서비스 | `Android` `Java` `Firebase` |
+| 🎨 | **[ArtDay](https://github.com/KimTaehyeok01/GalleryReservation)** | 아트 기반 일정 관리 및 작품 공유 플랫폼<br>사용자 맞춤 아트 콘텐츠 서비스 | `Android` `Java` `Firebase` |
 | 📱 | **[MyLeisure Platform](https://github.com/KimTaehyeok01/CapstoneDesign)** | 심리 기반 레저 스포츠 추천 서비스 (캡스톤 디자인)<br>팀장으로 3인 팀 리드 · 위치/날씨 API 연동 | `Android` `Java` `Firebase` `REST API` |
 | 🌐 | **Villain Company** | 1인 주도 프론트/백엔드 설계 및 멀티 클라우드 배포 | `React` `Spring Boot` `AWS` `Vercel` |
 | 📊 | **Weather Analysis** | 공공데이터 활용 기상 데이터 정제 및 시각화 | `Python` `Pandas` |
