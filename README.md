@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007396&center=true&vCenter=true&width=620&lines=Backend+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Android;%EB%81%8A%EC%9E%84%EC%97%86%EC%9D%B4+%EA%B8%B0%EB%A1%9D%ED%95%98%EB%A9%B0+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007396&center=true&vCenter=true&width=620&lines=Backend+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+JavaScript;%EB%81%8A%EC%9E%84%EC%97%86%EC%9D%B4+%EA%B8%B0%EB%A1%9D%ED%95%98%EB%A9%B0+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90" alt="Typing SVG" />
 </p>
 
 <br>
