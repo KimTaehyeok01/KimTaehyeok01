@@ -10,8 +10,6 @@
 
 <div align="center">
 
-> **Spring Boot의 견고한 백엔드와 React의 직관적인 UX를 연결하는 풀스택 개발자입니다.**
-
 <br>
 
 ---
