@@ -12,6 +12,8 @@
 
 <br>
 
+---
+
 ### 🛠 Tech Stack
 
 **Core & Backend**
